@@ -1,0 +1,10 @@
+{
+  "name": "rionell-workspace",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix rionell-app run dev",
+    "build": "npm --prefix rionell-app run build",
+    "start": "npm --prefix rionell-app run start",
+    "lint": "npm --prefix rionell-app run lint"
+  }
+}
